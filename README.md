@@ -1,6 +1,4 @@
-# regression-model-applied-in-improving-the-air-pollution-measurement
-
-## Project: use regression model to improve the measurement of air pollution concentration in Eindhoven. 
+# Project: use regression model to improve the measurement of air pollution concentration in Eindhoven. 
 
 ### to read report, please click [here](https://github.com/QiaoRenOreo/regression-model-applied-in-improving-the-air-pollution-measurement/blob/master/regression_model_air_pollution.pdf)
 
